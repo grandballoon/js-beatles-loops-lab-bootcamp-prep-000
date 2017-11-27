@@ -16,7 +16,7 @@ var i = 0;
   return facts;
 }
 
-function iLoveTheBeatles (number) {
+function iLoveTheBeatles(number) {
   var love = [];
   do {
     love.push("I love the Beatles!")
