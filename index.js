@@ -17,5 +17,5 @@ var i = 0;
 }
 
 function iLoveTheBeatles (number) {
-  
+  var love = [];
 }
